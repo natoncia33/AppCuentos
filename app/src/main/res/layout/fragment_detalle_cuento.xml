@@ -9,16 +9,22 @@
     <ImageView
         android:id="@+id/imagenDetalleId"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="220dp"
         android:src="@drawable/ugalatortuga"
         android:scaleType="fitXY"
         android:layout_marginBottom="10dp"
         />
 
-    <TextView
-        android:id="@+id/descripcionId"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text=""/>
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/descripcionId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+
+    </ScrollView>
 
 </LinearLayout>

@@ -54,5 +54,7 @@ p
     <string name="cuentos">Cuentos</string>
     <string name="communicate">Acerca de</string>
     <string name="cargando">Cargando</string>
+    <string name="cuento">Cuento</string>
+    <string name="contenido">Contenido</string>
 
 </resources>
