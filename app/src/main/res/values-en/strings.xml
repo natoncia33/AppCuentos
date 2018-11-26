@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppNatDa</string>
+    <string name="acerca_de">About</string>
+    <string name="salir">Finish</string>
+    <string name="acerca_de_draw">About</string>
+    <string name="cuentos">Story</string>
+    <string name="home">Home</string>
+    <string name="communicate">About</string>
+</resources>

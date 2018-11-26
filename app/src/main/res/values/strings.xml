@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AppNatDa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+p
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="uga">Uga la tortura</string>
+    <string name="uga_descripcion_corta">Uga la tortura</string>
+    <string name="uga_descripcion_larga">¡Caramba, todo me sale mal!, se lamentaba constantemente Uga, la tortuga. Y no era para menos: siempre llegaba tarde, era la última en terminar sus tareas,
+        casi nunca ganaba premios por su rapidez y, para colmo era una dormilona. ¡Esto tiene que cambiar!, se propuso un buen día, harta de que sus compañeros del bosque le recriminaran por su poco esfuerzo.
+        Y optó por no hacer nada, ni siquiera tareas tan sencillas como amontonar las hojitas secas caídas de los árboles en otoño o quitar las piedrecitas del camino a la charca. –“¿Para qué preocuparme en hacerlo
+        si luego mis compañeros lo terminarán más rápido? Mejor me dedico a jugar y a descansar”. – “No es una gran idea”, dijo una hormiguita.
+        “Lo que verdaderamente cuenta no es hacer el trabajo en tiempo récord, lo importante es hacerlo lo mejor que sepas, pues siempre te quedarás con la satisfacción de haberlo conseguido.</string>
+
+    <string name="aventuraDelAgua">El aventura del agua</string>
+    <string name="aventuraDelAgua_descripcion_corta">El aventura del agua</string>
+    <string name="aventuraDelAgue_descripcion_larga">Un día que el agua se encontraba en el soberbio mar sintió el caprichoso deseo de subir al cielo.
+        Entonces se dirigió al fuego y le dijo: -“¿Podrías ayudarme a subir más alto? El fuego aceptó y con su calor, la volvió más ligera que el aire,
+        transformándola en un sutil vapor. El vapor subió más y más en el cielo, voló muy alto, hasta los estratos más ligeros y fríos del aire, donde
+        ya el fuego no podía seguirlo. Entonces las partículas de vapor, ateridas de frío, se vieron obligadas a juntarse, se volvieron más pesadas que
+        el aire y cayeron en forma de lluvia. Habían subido al cielo invadidas de soberbia y recibieron su merecido. La tierra sedienta absorbió la lluvia
+        y, de esta forma, el agua estuvo durante mucho tiempo prisionera en el suelo, purgando su pecado con una larga penitencia.</string>
+
+
+    <string name="secretoA">El aventura del agua</string>
+    <string name="secretoA_descripcion_corta">secreto a gritos</string>
+    <string name="secretoA_descripcion_larga">Gretel, la hija del Alcalde, era muy curiosa. Quería saberlo todo, pero no sabía guardar un secreto.
+        –“¿Qué hablabas con el Gobernador?”, le preguntó a su padre, después de intentar escuchar una larga conversación entre los dos hombres.
+        –“Estábamos hablando sobre el gran reloj que mañana, a las doce, vamos a colocar en el Ayuntamiento. Pero es un secreto y no debes divulgarlo”.
+        Gretel prometió callar, pero a las doce del día siguiente estaba en la plaza con todas sus compañeras de la escuela para ver cómo colocaban el reloj en el ayuntamiento.
+        Sin embargo, grande fue su sorpresa al ver que tal reloj no existía. El Alcalde quiso dar una lección a su hija y en verdad fue dura, pues las niñas del pueblo estuvieron
+        mofándose de ella durante varios años. Eso sí, le sirvió para saber callar a tiempo.</string>
+
+    <string name="papelytinta">Papel y tinta</string>
+    <string name="papelytinta_descripcion_corta">Papel y tinta</string>
+    <string name="papelytinta_descripcion_larga">Estaba una hoja de papel sobre una mesa, junto a otras hojas iguales a ella, cuando una pluma, bañada en negrisima tinta, la mancho llenandola de palabras.
+
+¿No podrias haberme ahorrado esta humillacion? Dijo enojada la hoja de papel a la tinta. Tu negro infernal me ha arruinado para siempre.
+
+
+  No te he ensuciado. Repuso la tinta. Te he vestido de palabras. Desde ahora ya no eres una hoja de papel, sino un mensaje. Custodias el pensamiento del hombre. Te has convertido en algo precioso.
+
+  En efecto, ordenando el despacho, alguien vio aquellas hojas esparcidas y las junto para arrojarlas al fuego. Pero reparo en la hoja "sucia" de tinta y la devolvio a su lugar porque llevaba, bien visible, el mensaje de la palabra. Luego, arrojo las demas al fuego.</string>
+    <string name="acerca_de">Acerca de ...</string>
+    <string name="salir">Salir</string>
+    <string name="acerca_de_draw">Acerca de</string>
+    <string name="home">Home</string>
+    <string name="cuentos">Cuentos</string>
+    <string name="communicate">Acerca de</string>
+
+</resources>
