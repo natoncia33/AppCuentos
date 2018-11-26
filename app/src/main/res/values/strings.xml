@@ -53,5 +53,6 @@ p
     <string name="home">Home</string>
     <string name="cuentos">Cuentos</string>
     <string name="communicate">Acerca de</string>
+    <string name="cargando">Cargando</string>
 
 </resources>

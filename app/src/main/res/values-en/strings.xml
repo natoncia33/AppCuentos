@@ -7,4 +7,5 @@
     <string name="cuentos">Story</string>
     <string name="home">Home</string>
     <string name="communicate">About</string>
+    <string name="cargando">Loading</string>
 </resources>
